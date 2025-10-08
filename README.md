@@ -64,5 +64,4 @@ Any user can clone, compile, and run the project directly from GitHub using the 
     # Run the program
     stock-manager.exe
 
-💡 The application is **portable** and works on any system with a C compiler  
-(Windows, Linux, or macOS).
+💡 The application is **portable** and works on any system with a C compiler (Windows, Linux, or macOS).
