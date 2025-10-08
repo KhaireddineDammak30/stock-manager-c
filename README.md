@@ -6,7 +6,9 @@ It includes automatic file saving, UTF-8 display support, and a clean, user-frie
 ---
 
 ## 🖥️ Console Preview
-<img width="732" height="432" alt="interface" src="https://github.com/user-attachments/assets/41c06bb5-e0c7-4008-9af6-12ce9738b2d2" />
+<p align="center">
+  <img width="732" height="432" alt="interface" src="https://github.com/user-attachments/assets/41c06bb5-e0c7-4008-9af6-12ce9738b2d2" />
+</p>
 
 ---
 
@@ -36,7 +38,7 @@ It includes automatic file saving, UTF-8 display support, and a clean, user-frie
 
 ## 🚀 Installation & Usage
 
-### 1️⃣ Prerequisites
+### Prerequisites
 - Install a **C compiler** (e.g., MinGW or GCC).  
 - On **Windows**, enable UTF-8 mode for proper display, then compile and run the program using the commands below 👇  
 
@@ -47,7 +49,7 @@ It includes automatic file saving, UTF-8 display support, and a clean, user-frie
         **Run the program:**  
         stock-manager.exe 
 
-
+---
 
 ## 👥 How Others Can Use It
 
